@@ -2,8 +2,8 @@ public class TextBlock {
     public static void main(String[] args) {
         String json = """
                 {
-                    "name": "Alice",
-                    "age": 25
+                    "name": "Hasan",
+                    "role": "Developer"
                 }
                 """;
         System.out.println(json);
